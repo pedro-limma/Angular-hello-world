@@ -1,1 +1,1 @@
-Meu Primeiro Projeto Angula
+Meu Primeiro Projeto Angular
