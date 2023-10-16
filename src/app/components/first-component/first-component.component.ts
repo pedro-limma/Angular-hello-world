@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class FirstComponentComponent {
   Criador: string = "Pedro";
   Mensagem: string = "Estudar Angular";
-  CriacaoRecado: string = new Date().toUTCString();
+  CriacaoRecado: Date = new Date();
 
 }
